@@ -3,7 +3,7 @@
 ---
 
 ## 💫 About Me
-I am a Computer Science student at **NTNU**, passionate about coding and artificial intelligence.
+Computer Science student at **NTNU**, passionate about coding and artificial intelligence.
 
 ---
 
