@@ -1,8 +1,8 @@
 # Hi there, I'm [Your Name] 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurborger)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arthurborger.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurborger@example.com)
 
 ## 👨‍💻 About Me
 
@@ -79,25 +79,25 @@ I'm a **[Your Role - e.g., Full Stack Developer, Software Engineer, Data Scienti
 
 ## 🌟 Featured Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
+### [Project Name 1](https://github.com/arthurBorger/project1)
 **[Brief description of what the project does]**
 - 💡 Key Features: [Feature 1, Feature 2, Feature 3]
 - 🛠️ Built with: [Tech stack used]
 - 📊 Impact: [Metrics, users, or achievements if applicable]
 
-### [Project Name 2](https://github.com/yourusername/project2)
+### [Project Name 2](https://github.com/arthurBorger/project2)
 **[Brief description of what the project does]**
 - 💡 Key Features: [Feature 1, Feature 2, Feature 3]
 - 🛠️ Built with: [Tech stack used]
 - 📊 Impact: [Metrics, users, or achievements if applicable]
 
-### [Project Name 3](https://github.com/yourusername/project3)
+### [Project Name 3](https://github.com/arthurBorger/project3)
 **[Brief description of what the project does]**
 - 💡 Key Features: [Feature 1, Feature 2, Feature 3]
 - 🛠️ Built with: [Tech stack used]
 - 📊 Impact: [Metrics, users, or achievements if applicable]
 
-## �� GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurBorger&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -127,10 +127,10 @@ I'm a **[Your Role - e.g., Full Stack Developer, Software Engineer, Data Scienti
 
 ## 📫 How to Reach Me
 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 💼 LinkedIn: [Arthur Borger](https://www.linkedin.com/in/arthurborger)
+- 🌐 Portfolio: [arthurborger.github.io](https://arthurborger.github.io)
+- 📧 Email: arthurborger@example.com
+- 🐦 Twitter: [@arthurborger](https://twitter.com/arthurborger)
 
 ## 💡 What I'm Looking For
 
